@@ -18,4 +18,35 @@ The Java Recipe Manager is a desktop application designed to help users efficien
 - **Framework**: Java Swing for GUI
 - **Development Environment**: Notepad
 
+## Usage
+
+1. **Add a Recipe**: Click on the "Add Recipe" button and fill in the necessary details.
+2. **Edit a Recipe**: Select a recipe from the list, click "Edit," make your changes, and save.
+3. **Delete a Recipe**: Select a recipe and click the "Delete" button to remove it from your collection.
+4. **Search for Recipes**: Use the search bar to find recipes by ingredients or categories.
+
+## Future Enhancements
+
+- Recipe sharing via social media or email.
+- Development of a mobile application.
+- Cloud storage integration for backup.
+- Nutritional information display for recipes.
+- Enhanced meal planning calendar feature.
+- Ingredient substitution suggestions.
+
+## Acknowledgments
+
+- Inspiration for the project came from various recipe management applications.
+- Special thanks to the open-source community for providing invaluable resources and libraries.
+
+## Contact
+
+For any inquiries or feedback, feel free to reach out:
+
+- **Ritessh Santra**: [ritesh.santra@somaiya.edu](mailto:ritesh.santra@somaiya.edu)
+- **Sankalp Mourya**: [@sankalp04841](https://github.com/sankalp04841)
+
+---
+
+Thank you for checking out the Recipe Manager! Happy cooking!
 
