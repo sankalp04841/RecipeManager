@@ -1,0 +1,27 @@
+Luke Warm Water,Take required amount of water in a pan. Boil it for 5 minutes,Indian,Breakfast,true,true,5,Water,As Required
+Salt Water,Take required amount of water and boil it in a pan and add some salt to it,Indian,Breakfast,true,true,2,Water,As Required,Salt,1 tbsp
+Fruit Salad,Chop various fruits and mix them in a bowl. Add honey or lemon juice for taste,International,Snack,true,true,5,Apple,1,Honey,1 tbsp,Banana,1
+Vegetable Stir Fry,Stir fry mixed vegetables in oil with soy sauce and garlic. Serve with rice,Asian,Dinner,true,true,20,Broccoli,100g,Carrots,50g,Soy Sauce,2 tbsp
+Chocolate Mousse,Mix melted chocolate with whipped cream. Chill for an hour before serving,French,Dessert,true,false,60,Chocolate,100g,Cream,1 cup,Sugar,2 tbsp
+Pasta with Tomato Sauce,Boil pasta and cook with tomato sauce and herbs,Italian,Lunch,true,false,20,Pasta,200g,Tomato Sauce,100g,Olive Oil,1 tbsp,Garlic,2 cloves
+Veggie Burger,Grill veggie patties and assemble with lettuce and tomato in a bun,American,Dinner,true,true,15,Vegetable Patty,2,Burger Buns,2,Lettuce,2 leaves,Tomato,1 slice
+Fruit Smoothie,Blend bananas and strawberries with yogurt and honey,International,Breakfast,true,true,5,Banana,1,Strawberries,100g,Yogurt,1 cup,Honey,1 tbsp
+Spaghetti Bolognese,Boil spaghetti and cook minced beef with tomato sauce,Italian,Dinner,false,false,30,Spaghetti,200g,Minced Beef,150g,Tomato Sauce,100g,Garlic,2 cloves
+Vegan Buddha Bowl,Cook quinoa and top with roasted vegetables and avocado,International,Dinner,true,true,25,Quinoa,100g,Avocado,1,Roasted Vegetables,200g,Chickpeas,100g
+Omelette,Whisk eggs and cook with cheese and ham in a frying pan,French,Breakfast,false,false,10,Eggs,2,Cheese,50g,Ham,50g,Butter,1 tbsp
+Chicken Stir Fry,Stir fry chicken with vegetables and soy sauce,Asian,Dinner,false,false,20,Chicken Breast,200g,Bell Peppers,100g,Soy Sauce,2 tbsp,Ginger,1 tbsp
+Banana Pancakes,Mix banana with flour and cook as pancakes on a griddle,American,Breakfast,true,true,15,Banana,2,Flour,1 cup,Almond Milk,1 cup,Baking Powder,1 tsp
+Palak Paneer,Blanch spinach and blend. Cook with spices and paneer,Indian,Dinner,true,false,25,Spinach,250g,Paneer,200g,Ginger,1 inch,Garlic,3 cloves,Cumin,1 tsp
+Dosa,Make dosa batter and cook on a griddle,Indian,Breakfast,true,false,15,Rice,1 cup,Urad Dal,1/2 cup,Fenugreek Seeds,1 tsp,Water,As required
+Rasam,Boil lentils and prepare a tamarind-based soup with spices,Indian,Lunch,true,true,30,Toor Dal,1/2 cup,Tamarind,2 tbsp,Tomatoes,2,Mustard Seeds,1 tsp,Curry Leaves,10
+Aloo Gobhi,Stir-fry potatoes and cauliflower with spices,Indian,Dinner,true,true,30,Potatoes,3,Cauliflower,1 medium,Cumin Seeds,1 tsp,Turmeric,1/2 tsp,Green Chili,2
+Paneer Butter Masala,Cook paneer cubes in a rich tomato gravy with cream,Indian,Dinner,true,false,40,Paneer,200g,Tomatoes,3,Butter,2 tbsp,Cream,1/4 cup,Spices,Varied
+Vegetable Pulao,Cook rice with mixed vegetables and fragrant spices,Indian,Lunch,true,true,30,Rice,1 cup,Carrots,1,Peas,1/2 cup,Cinnamon,1 stick,Cloves,2
+Samosa,Prepare a dough and fill with spiced potatoes and peas,Indian,Snack,true,true,50,Flour,2 cups,Potatoes,3,Peas,1/2 cup,Spices,1 tbsp,Oil,For frying
+Butter Chicken,Marinate chicken and cook in a rich butter tomato sauce,Indian,Dinner,false,false,60,Chicken,500g,Tomatoes,4,Butter,3 tbsp,Cream,1/2 cup,Spices,Varied
+Pav Bhaji,Prepare mashed vegetables and serve with buttered bread,Indian,Lunch,true,true,40,Potatoes,3,Carrots,2,Peas,1/2 cup,Tomatoes,2,Pav Bread,4
+Rogan Josh,Cook lamb in a rich curry with yogurt and spices,Indian,Dinner,false,false,90,Lamb,500g,Yogurt,1/2 cup,Onions,2,Garlic,3 cloves,Spices,Varied
+Biryani,Layer spiced rice with marinated meat or vegetables,Indian,Lunch,false,false,70,Rice,2 cups,Chicken,500g,Yogurt,1/2 cup,Spices,2 tbsp,Onions,2
+Aloo Paratha,Stuff whole wheat dough with spiced potatoes and fry,Indian,Breakfast,true,true,30,Whole Wheat Flour,2 cups,Potatoes,2,Spices,1 tsp,Butter,For frying
+
+
