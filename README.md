@@ -39,6 +39,9 @@ The Java Recipe Manager is a desktop application designed to help users efficien
 - Inspiration for the project came from various recipe management applications.
 - Special thanks to the open-source community for providing invaluable resources and libraries.
 
+## Report
+For detailed documentation and report, please refer to [this link](https://www.overleaf.com/read/rwtgrxwrtnnk#84e6d3).
+
 ## Contact
 
 For any inquiries or feedback, feel free to reach out:
