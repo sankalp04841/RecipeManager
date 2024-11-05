@@ -44,7 +44,7 @@ The Java Recipe Manager is a desktop application designed to help users efficien
 For any inquiries or feedback, feel free to reach out:
 
 - **Ritessh Santra**: [ritesh.santra@somaiya.edu](mailto:ritesh.santra@somaiya.edu)
-- **Sankalp Mourya**: [@sankalp04841](https://github.com/sankalp04841)
+- **Sankalp Mourya**: [sankalp.mourya27@gmail.com](mailto:sankalp.mourya27@gmail.co.)
 
 ---
 
