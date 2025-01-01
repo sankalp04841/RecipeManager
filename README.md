@@ -47,7 +47,7 @@ For detailed documentation and report, please refer to [this link](https://www.o
 For any inquiries or feedback, feel free to reach out:
 
 - **Ritessh Santra**: [ritesh.santra@somaiya.edu](mailto:ritesh.santra@somaiya.edu)
-- **Sankalp Mourya**: [sankalp.mourya27@gmail.com](mailto:sankalp.mourya27@gmail.co.)
+- **Sankalp**: [sankalp.mourya27@gmail.com](mailto:sankalp.mourya27@gmail.co.)
 
 ---
 
